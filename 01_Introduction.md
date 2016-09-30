@@ -1,6 +1,6 @@
 Many informations are available to help you starting using SOFA and developing your own application.
 
-Give it a try, you just have to browse the categories on the left sidebar. Some pages may be incomplete, no worries, we are still working on them!
+Give it a try, you just have to browse the categories on the left sidebar. Some pages may be incomplete, no worries, we are still working on them!jlkhlhjkjhk
 
 And if you need it:
 
